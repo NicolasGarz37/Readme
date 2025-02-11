@@ -39,4 +39,3 @@ Este repositorio contiene implementaciones del cálculo del factorial de un núm
     Ingresa un número entero positivo: 5
     El factorial de 5 es: 120
     Tiempo de ejecución: 0.000003 segundos
-## Autor
